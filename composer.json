@@ -1,6 +1,5 @@
 {
     "name": "lotgd-core/offering-bundle",
-    "version": "0.1.0",
     "type": "lotgd-bundle",
     "description": "Offerring Special for LoTGD IDMarinas Edition.",
     "license": "BSD-3-Clause",
